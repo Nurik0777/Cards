@@ -1,0 +1,117 @@
+import Vika from '../Assets/vika.jpg'
+import Almaz from '../Assets/almaz.jpg'
+import Muni from '../Assets/muni.jpg'
+import Diana from '../Assets/diana.jpg'
+import Jasur from '../Assets/jasur.jpg'
+import Omurbek from '../Assets/omurbek.jpg'
+import Rafuk from '../Assets/rafuk.jpg'
+import Beks from '../Assets/beks.jpg'
+export const Cardlist = [
+    {
+        id:1,
+        url:Beks,
+        title:'Beksultan',
+        age:22,
+        height:170,
+        hobby:'JS',
+        color:'dark'
+    },
+    {
+        id:2,
+        url:'',
+        title:'Nurillo',
+        age:18,
+        height:170,
+        hobby:'JS',
+        color:'dark'   
+    },
+    {
+        id:3,
+        url:Vika,
+        title:'Vika',
+        age:16,
+        height:170,
+        hobby:'JS',
+        color:'dark'
+    },
+    {
+        id:4,
+        url:Jasur,
+        title:'Jasur',
+        age:17,
+        height:170,
+        hobby:'JS',
+        color:'dark'
+    },
+    {
+        id:5,
+        url:Rafuk,
+        title:'Rafuk',
+        age:16,
+        height:170,
+        hobby:'JS',
+        color:'dark'
+    },
+    {
+        id:6,
+        url:'',
+        title:'Amirkhan',
+        age:15,
+        height:170,
+        hobby:'JS',
+        color:'dark'
+    },
+    {
+        id:7,
+        url:Omurbek,
+        title:'Omurbek',
+        age:16,
+        height:170,
+        hobby:'JS',
+        color:'dark'
+    },
+    {
+        id:8,
+        title:'Diana',
+        age:16,
+        height:170,
+        hobby:'JS',
+        color:'dark'
+    },
+    {
+        id:9,
+        title:'Meerimai',
+        age:23,
+        height:170,
+        hobby:'JS',
+        color:'dark'
+    },
+    {
+        id:10,
+        url:Muni,
+        title:'Muni',
+        age:18,
+        height:170,
+        hobby:'JS',
+        color:'dark'
+    },
+    {
+        id:11,
+        url:Diana,
+        title:'Diana',
+        age:16,
+        height:170,
+        hobby:'JS',
+        color:'dark'
+    },
+    {
+        id:12,
+        url:Almaz,
+        title:'Almaz',
+        age:19,
+        height:190,
+        hobby:'JS',
+        color:'dark'
+    }
+
+]

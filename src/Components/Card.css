@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px 40px;
+    justify-content: center;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.781);
+}
+
+.card{
+    width: 280px;
+    height: 400px;
+    background-color:black;
+    margin: 20px 20px;
+    border-radius: 10px;
+}
+
+.card_ricture img{
+    width: 280px;
+    height: 230px;
+    border-radius: 10px;
+}
+.card_header{
+    margin: 0 auto;
+}
+.card_header h5{
+    background-color: #33A1FC;
+    padding: 10px 10px;
+    font-size: 17px;
+    color: black;
+    border-radius: 10px;
+    margin: 0 auto;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+
+.card_footer{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 25px auto;
+}
+
+
+.card_footer h5{
+    padding: 4px 4px;
+    font-size: 17px;
+    margin: 8px 4px;
+    font-weight: 400;
+    font-family: 'Open Sans Condensed', sans-serif;  
+}
